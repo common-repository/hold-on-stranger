@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hold, on Stranger!\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Oct 23 2015 17:48:19 GMT+0100 (WEST)\n"
+"PO-Revision-Date: Mon Nov 09 2015 12:25:04 GMT+0000 (WET)\n"
+"Last-Translator: hosadmin <hisir@k2c.eu>\n"
+"Language-Team: \n"
+"Language: Portuguese (Portugal)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: pt_PT\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../holdonstranger.php:227
+msgid "Invalid API key"
+msgstr "Chave de API é inválida"
+
+#. Name of the plugin
+msgid "Hold, on Stranger!"
+msgstr "Hold, on Stranger!"
+
+#. URI of the plugin
+msgid "https://holdonstranger/plugins/wp/holdonstranger"
+msgstr "https://holdonstranger/plugins/wp/holdonstranger"
+
+#. Description of the plugin
+msgid "Adds the Hold, on Stranger! popups to your website."
+msgstr "Habilita o seu website a mostrar os pop-ups do Hold on, Stranger!"
+
+#. Author of the plugin
+msgid "K2C."
+msgstr "K2C."
+
+#. Author URI of the plugin
+msgid "https://holdonstranger.com"
+msgstr "https://holdonstranger.com"
+
+#: ../holdonstranger.php:73
+#, php-format
+msgid ""
+"Your %s widget is disabled. Please go to the <a href=\"%s\">plugin "
+"settings</a> and enter your API key to activate it."
+msgstr ""
+"O widget do %s não se encontra ativo. Por favor complete a "
+"<a\"href=\\\"%s\\\">configuração do plugin</a> com a sua chave de API.\""
+
+#: ../holdonstranger.php:74
+msgid "Don't have an account yet? "
+msgstr "Ainda não se registou?"
+
+#: ../holdonstranger.php:76
+#, php-format
+msgid "Try %s Free"
+msgstr "Experimente o %s gratis."
+
+#: ../holdonstranger.php:90
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../holdonstranger.php:114
+#, php-format
+msgid "Your %s widget is enabled."
+msgstr "O widget do %s está ativado."
+
+#: ../holdonstranger.php:116
+#, php-format
+msgid ""
+"Please enter your %s API key in the form bellow to activate the widget. If "
+"you don't know where to find it, click the \"Get your API key\" button."
+msgstr ""
+"Por favor preencha o formulário abaixo com a chave de API fornecida pelo %s. "
+"Caso não saiba onde a encontrar,  click no botão \"Obter chave de API\"."
+
+#: ../holdonstranger.php:132
+msgid "Reset settings"
+msgstr "Limpar configurações"
+
+#: ../holdonstranger.php:164
+msgid "API key"
+msgstr "Chave de API"
+
+#: ../holdonstranger.php:169
+msgid "Get your API key"
+msgstr "Obter chave de API"
+
+#: ../holdonstranger.php:195
+msgid "The provided API Key is not recognized."
+msgstr "A chave inserida não é válida."
+
+#: ../holdonstranger.php:229
+msgid "Could not validate your API key. Please try again later!"
+msgstr "Não foi possível validar a sua chave de API. Por favor, tente mais tarde!"
+
+#: ../holdonstranger-woocommerce.php:160 ../holdonstranger-woocommerce.php:165
+msgid "Invalid post ID."
+msgstr "O ID não é válido."
